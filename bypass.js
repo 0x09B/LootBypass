@@ -20,6 +20,4 @@ const bypass = async (urlToBypass) => {
   return myPromise;
 };
 
-const test = await bypass("https://loot-link.com/s?a71a5892&data=cK4X7pNIqU%2BFmtcNCU8WT%2BM7bgWZ746JX5cSA0mJZwWztlUvToEe8l9pXbT8hNHJim9NiiPhkqcCQ9GAEaa6ASuLVAapEqSyECNcGylyZS4%3D");
-
-console.log(test);
+export default bypass;
