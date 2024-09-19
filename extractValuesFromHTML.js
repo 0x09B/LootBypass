@@ -1,8 +1,4 @@
-import axios from "axios";
 import * as cheerio from 'cheerio';
-
-
-const response = await axios.get("https://loot-link.com/s?a71a5892")
 
 function extractValuesFromHTML(html) {
   // Load HTML into Cheerio
