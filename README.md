@@ -1,7 +1,7 @@
 
-# LootLab bypass
+# LootBypass
 
-**LootLink Bypass Module**
+**LootLink LootLab Bypass Module**
 
 LootLab bypass is a Node.js module that bypasses restrictions on LootLink URLs using Puppeteer for browser automation and WebSocket for real-time data extraction. This module is ideal for developers needing to automate URL extraction from LootLink services.
 
