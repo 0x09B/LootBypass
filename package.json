@@ -2,9 +2,6 @@
   "name": "lootbypass",
   "version": "1.0.0",
   "main": "bypass.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
   "author": "LootBypass - A Node.js module that automates the bypass of LootLink, LootLab URLs using Puppeteer and WebSocket. Easily extract URLs with minimal setup.",
   "license": "ISC",
